@@ -1,0 +1,17 @@
+{
+  "name": "likeswing",
+  "description": "self defined menuitems",
+  "main": "index.js",
+  "authors": [
+    "ye song"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

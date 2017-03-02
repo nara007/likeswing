@@ -1,0 +1,5 @@
+class GISObject {
+
+}
+
+export { GISObject };
